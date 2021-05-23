@@ -38,6 +38,7 @@ Discord: **GalaxyDanMC#4847**
 
 - Laptop: **Acer Aspire 3**
 - Specs: **Intel Core i5-10210U, 12 GB Ram, Nvidia GeForce MX230**
+- Operating System: **Windows 10, Ubuntu Linux**
 - Keyboard: **Royal Kludge RK61 (RK Browns)**
 - Mouse: **Delux M700**
 </details>
@@ -49,7 +50,7 @@ Discord: **GalaxyDanMC#4847**
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GalaxyDanMC&label=Profile%20views&color=0e75b6&style=flat" alt="GalaxyDanMC" /> </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=GalaxyDanMC&show_icons=true&theme=dark" alt="GalaxyDanMC" /> </p>
+![GalaxyDanMC's github stats](https://github-readme-stats.vercel.app/api?username=GalaxyDanMC&show_icons=true&hide_border=true&theme=dark)
 
 </details>
 
