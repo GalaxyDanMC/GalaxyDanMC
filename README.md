@@ -1,16 +1,58 @@
-### Hi there 👋
+<h1 align="center">👋Hello World, I am GalaxyDanMC</h1>
+
+### About Me
+- Malaysian Developer
+- Tech Enthusiast
+- Favourite Game: **Minecraft, Roblox, GTA V**
+- Currently Learning: **JavaScript**
+- Planning to Learn: **Java, HTML5, Swift, Python**
+
+<details>
+<summary>
+  <a href="https://github.com/GalaxyDanMC"><img src="https://img.shields.io/badge/-Get%20in%20Touch-808080?style=for-the-badge" /></a>
+</summary>
+
+Discord: **GalaxyDanMC#4847**
+
+[![Twitter Badge](https://img.shields.io/badge/-@GalaxyDanMC-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GalaxyDanMC)](https://twitter.com/GalaxyDanMC)
+
+<a href="https://www.youtube.com/channel/UCHkC2osaFTRngUZPbm-s9RQ"><img src="https://img.shields.io/badge/-GalaxyDanMC-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+</details>
+
+<details>
+<summary>
+  <a href="https://github.com/GalaxyDanMC"><img src="https://img.shields.io/badge/-Language%20And%20Tools-808080?style=for-the-badge" /></a>
+</summary>
+  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/GalaxyDanMC)](https://github.com/GalaxyDanMC)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/GalaxyDanMC)](https://github.com/GalaxyDanMC) 
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/GalaxyDanMC)](https://github.com/GalaxyDanMC) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/GalaxyDanMC)](https://github.com/GalaxyDanMC)
+</details>
+
+<details>
+<summary>
+  <a href="https://github.com/GalaxyDanMC"><img src="https://img.shields.io/badge/-Specs-808080?style=for-the-badge" /></a>
+</summary>
+
+- Laptop: **Acer Aspire 3**
+- Specs: **Intel Core i5-10210U, 12 GB Ram, Nvidia GeForce MX230**
+- Keyboard: **Royal Kludge RK61 (RK Browns)**
+- Mouse: **Delux M700**
+</details>
+
+<details>
+<summary>
+  <a href="https://github.com/GalaxyDanMC"><img src="https://img.shields.io/badge/-statistics-808080?style=for-the-badge" /></a>
+</summary>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GalaxyDanMC&label=Profile%20views&color=0e75b6&style=flat" alt="GalaxyDanMC" /> </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=GalaxyDanMC&show_icons=true&theme=dark" alt="GalaxyDanMC" /> </p>
+
+</details>
 
 <!--
-**GalaxyDanMC/GalaxyDanMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Wrote by: GalaxyDanMC <3
 -->
