@@ -6,6 +6,7 @@
 - Favourite Game: **Minecraft, Roblox, GTA V**
 - Currently Learning: **JavaScript**
 - Planning to Learn: **Java, HTML5, Swift, Python**
+- He/Him
 
 <details>
 <summary>
