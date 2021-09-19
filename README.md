@@ -40,7 +40,7 @@ Discord: [GalaxyDanMC#0001](https://discord.com/users/448857983309316096)
 
 - Laptop: **Acer Aspire 3**
 - Specs: **Intel Core i5-10210U, 12 GB Ram, Nvidia GeForce MX230**
-- Operating System: **Windows 10, Ubuntu Linux**
+- Operating System: **Windows 10, Ubuntu Linux, MacOS Big Sur**
 - Keyboard: **Royal Kludge RK61 (RK Browns)**
 - Mouse: **Delux M700**
 </details>
