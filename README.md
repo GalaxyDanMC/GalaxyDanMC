@@ -1,9 +1,10 @@
 <h1 align="center">👋Hello World, I am GalaxyDanMC</h1>
 
+**CURRENTLY ON BREAK**
+
 ### About Me
-- Malaysian Developer
 - Tech Enthusiast
-- Favourite Game: **Minecraft, Roblox, GTA V**
+- Favourite Game: **Minecraft, Roblox, GTA V, Tetris**
 - Currently Learning: **JavaScript**
 - Planning to Learn: **Java, HTML5, Swift, Python**
 - He/Him
