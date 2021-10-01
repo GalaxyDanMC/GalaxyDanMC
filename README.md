@@ -13,7 +13,7 @@
   <a href="https://github.com/GalaxyDanMC"><img src="https://img.shields.io/badge/-Contact-808080?style=for-the-badge" /></a>
 </summary>
 
-Discord: [GalaxyDanMC#3596](https://discord.com/users/448857983309316096)
+Discord: [GalaxyDanMC#0001](https://discord.com/users/448857983309316096)
 
 [![Twitter Badge](https://img.shields.io/badge/-@GalaxyDanMC-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GalaxyDanMC)](https://twitter.com/GalaxyDanMC)
 
