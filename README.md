@@ -4,14 +4,13 @@
 
 ### About Me
 - Tech Enthusiast
-- Favourite Game: **Minecraft, Roblox, GTA V, Tetris**
 - Currently Learning: **JavaScript**
 - Planning to Learn: **Java, HTML5, Swift, Python**
 - He/Him
 
 <details>
 <summary>
-  <a href="https://github.com/GalaxyDanMC"><img src="https://img.shields.io/badge/-Get%20in%20Touch-808080?style=for-the-badge" /></a>
+  <a href="https://github.com/GalaxyDanMC"><img src="https://img.shields.io/badge/-Contact-808080?style=for-the-badge" /></a>
 </summary>
 
 Discord: [GalaxyDanMC#3596](https://discord.com/users/448857983309316096)
