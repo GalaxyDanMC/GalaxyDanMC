@@ -1,12 +1,12 @@
 <h1 align="center">👋Hello World, I am GalaxyDanMC</h1>
 
-**CURRENTLY ON BREAK**
-
 ### About Me
 - Tech Enthusiast
 - Currently Learning: **JavaScript**
 - Planning to Learn: **Java, HTML5, Swift, Python**
 - He/Him
+
+**Currently on break**
 
 <details>
 <summary>
