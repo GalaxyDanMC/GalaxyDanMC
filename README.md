@@ -4,6 +4,7 @@
 - Tech Enthusiast
 - Currently Learning: **JavaScript**
 - Planning to Learn: **Java, HTML5, Swift, Python**
+- I am currently a moderator for **[AedusMC](https://aedusmc.com/home/)** and **[BACON ARMY](https://discord.gg/myusernamesthis)**
 - He/Him
 
 **Currently on break**
