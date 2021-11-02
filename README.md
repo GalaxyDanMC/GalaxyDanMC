@@ -7,7 +7,7 @@
 - I am currently a moderator for **[AedusMC](https://aedusmc.com/home/)** and **[BACON ARMY](https://discord.gg/myusernamesthis)**
 - He/Him
 
-**Currently on break**
+**Currently working on a project**
 
 <details>
 <summary>
