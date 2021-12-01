@@ -1,12 +1,12 @@
 <h1 align="center">👋Hello World, I am GalaxyDanMC</h1>
 
+now im on break again rip
+
 ### About Me
 - Tech Enthusiast
 - Currently Using: **JavaScript, Python**
 - I am currently a moderator for **[AedusMC](https://aedusmc.com/home/)** and **[BACON ARMY](https://discord.gg/myusernamesthis)**
 - He/Him
-
-**Currently working on a project**
 
 <details>
 <summary>
